@@ -16,10 +16,10 @@ pip install opencv-python mediapipe numpy
 python handtracking.py
 ```
 
-##Safety Note
+## Safety Note
 This script moves your mouse pointer and can simulate clicks. Ensure you have an alternate control method available.
 
-##Requirements
+## Requirements
 Python 3.6 or later
 OpenCV 4.0 or later
 MediaPipe
@@ -28,8 +28,8 @@ PyAutoGUI
 Contributing
 Fork the repository and contribute by submitting a pull request.
 
-##License
+## License
 Distributed under the MIT License. See LICENSE for more information.
 
-##Contact
+## Contact
 Reach out with any feedback or support needs via GitHub or email.
